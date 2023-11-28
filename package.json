@@ -12,6 +12,7 @@
     "-": "^0.0.1",
     "@rocketseat/eslint-config": "^2.1.0",
     "D": "^1.0.0",
+    "lucide-react": "^0.293.0",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"
